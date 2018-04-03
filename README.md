@@ -1,1 +1,2 @@
-# nightpro-widget-sample-site-dev
+# nightpro-widget-sample-site
+Nightpro Sample Venue Website for displaying available widgets
