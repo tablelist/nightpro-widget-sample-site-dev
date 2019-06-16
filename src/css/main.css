@@ -166,3 +166,11 @@ body {
   color: white;
   padding: 10px 0 25px;
 }
+
+/* ---------------- MEMBERSHIP PAGE ---------------- */
+
+#membership {}
+#membership .container-content #launch {
+  display: block;
+  margin:0 auto;
+}
